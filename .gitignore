@@ -29,4 +29,6 @@ bin/
 .DS_Store
 /.idea/
 /.git/
-
+.idea/
+misc.xml
+modules.xml
